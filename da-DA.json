@@ -1,0 +1,368 @@
+{
+  "bee-common-top-bar": {
+    "actions": "Handlinger",
+    "help": "Hjælp",
+    "hide-structure": "Skjul struktur",
+    "preview": "Forhåndsvisning",
+    "save": "GEM",
+    "save-as-template": "Gem som skabelon",
+    "send-test": "Afsendelsestest",
+    "settings": "Indstillinger",
+    "show-json-model": "Vis JSON-model",
+    "show-structure": "Vis struktur"
+  },
+  "bee-common-widget-bar": {
+    "body": "Body",
+    "column-properties": "Kolonneegenskaber",
+    "content": "Indhold",
+    "content-properties": "Indholdsegenskaber",
+    "delete": "Slet",
+    "duplicate": "Dupliker",
+    "row-properties": "Rækkeegenskaber",
+    "structure": "Struktur"
+  },
+  "bee-newsletter-modules-html": {
+    "html": "<div class=\"our-class\"> Jeg er en ny HTML-blok. </div>",
+    "widget-warning-desc": "Når du bruger din egen kode, kan det muligvis påvirke, hvordan beskeden gengives. Vær sikker på, at du bruger korrekt og responsiv HTML.",
+    "widget-warning-title": "Kun for HTML-eksperter"
+  },
+  "column-property-titles": {
+    "1": "Kolonne 1",
+    "10": "Kolonne 10",
+    "11": "Kolonne 11",
+    "12": "Kolonne 12",
+    "2": "Kolonne 2",
+    "3": "Kolonne 3",
+    "4": "Kolonne 4",
+    "5": "Kolonne 5",
+    "6": "Kolonne 6",
+    "7": "Kolonne 7",
+    "8": "Kolonne 8",
+    "9": "Kolonne 9",
+    "four-columns-empty": "Fire kolonner",
+    "Four-columns-images": "Bred billedegruppe",
+    "one-column-button": "Handlingsknap",
+    "one-column-empty": "En kolonne",
+    "one-column-image": "Hero billede",
+    "one-column-text": "Bred tekst",
+    "three-columns-empty": "Tre kolonner",
+    "three-columns-images": "Billedegruppe",
+    "two-columns-4-8-empty": "Venstresidebjælke",
+    "two-columns-8-4-empty": "Højresidebjælke",
+    "two-columns-empty": "To kolonner",
+    "two-columns-image-text": "Ikon & tekst",
+    "two-columns-text": "Dobbelttekst"
+  },
+  "mailup-bee-app": {
+    "prevent-close-confirm": "Når du forlader denne side, så vil dine ændringer gå tabt! Ønsker du virkelig at forlade denne side?"
+  },
+  "mailup-bee-common-widgets-align": {
+    "label": "Juster"
+  },
+  "mailup-bee-common-widgets-alt": {
+    "label": "Alt tekst"
+  },
+  "mailup-bee-common-widgets-background-color": {
+    "label": "Baggrundsfarve"
+  },
+  "mailup-bee-common-widgets-background-color-column": {
+    "label": "Kolonnebaggrund"
+  },
+  "mailup-bee-common-widgets-background-color-content": {
+    "label": "Indholdsbaggrund"
+  },
+  "mailup-bee-common-widgets-background-color-row": {
+    "label": "Rækkebaggrund"
+  },
+  "mailup-bee-common-widgets-border": {
+    "all-sides": "Alle sider",
+    "bottom": "Bund",
+    "label": "Grænse",
+    "left": "Venstre",
+    "more-options": "Flere valgmuligheder",
+    "right": "Højre",
+    "top": "Top"
+  },
+  "mailup-bee-common-widgets-border-radius": {
+    "label": "Grænseradius"
+  },
+  "mailup-bee-common-widgets-button-link-type": {
+    "label": "Linktype"
+  },
+  "mailup-bee-common-widgets-button-width": {
+    "label": "Bredde"
+  },
+  "mailup-bee-common-widgets-color": {
+    "label": "Tekstfarve"
+  },
+  "mailup-bee-common-widgets-divider-mode": {
+    "align": "Juster",
+    "height": "Højde",
+    "label": "Transparent",
+    "line": "Linje",
+    "width": "Bredde"
+  },
+  "mailup-bee-common-widgets-font": {
+    "body-label": "Standardskrifttype",
+    "label": "Skrifttypefamilie"
+  },
+  "mailup-bee-common-widgets-icons": {
+    "configure-icon-collection": "Konfigurer ikonsamling",
+    "select-icon-collection": "Vælg ikonsamling"
+  },
+  "mailup-bee-common-widgets-icons-align-and-space": {
+    "align": "Juster",
+    "icon-spacing": "Ikon afstand"
+  },
+  "mailup-bee-common-widgets-image-align": {
+    "align": "Juster",
+    "fullwidth": "Tilpas til bredde",
+    "fullwidth-blocked": "Dette billede er større end beholderen, så den er automatisk indstillet til ‘Tilpas til bredde’.",
+    "label": "Juster"
+  },
+  "mailup-bee-common-widgets-image-editor": {
+    "label": "Rediger billede"
+  },
+  "mailup-bee-common-widgets-image-href": {
+    "label": "Billedelink"
+  },
+  "mailup-bee-common-widgets-image-selector": {
+    "edit": "Rediger billede",
+    "label": "Skift billede",
+    "name": "Billednavn",
+    "url": "Url"
+  },
+  "mailup-bee-common-widgets-line-height": {
+    "label": "Linjeafstand"
+  },
+  "mailup-bee-common-widgets-link-color": {
+    "label": "Linkfarve"
+  },
+  "mailup-bee-common-widgets-message-background-color": {
+    "label": "Indholdsområdets baggrundsfarve"
+  },
+  "mailup-bee-common-widgets-message-width": {
+    "label": "Indholdsområdets bredde"
+  },
+  "mailup-bee-common-widgets-padding": {
+    "all-sides": "Alle sider",
+    "bottom": "Bund",
+    "label": "Margin",
+    "left": "Venstre",
+    "more-options": "Flere valgmuligheder",
+    "right": "Højre",
+    "top": "Top"
+  },
+  "mailup-bee-common-widgets-padding-content": {
+    "label": "Indholdsmargin"
+  },
+  "mailup-bee-common-widgets-text-align": {
+    "label": "Juster"
+  },
+  "mailup-bee-common-widgets-width": {
+    "label": "Bredde"
+  },
+  "mailup-bee-newsletter-modules-button": {
+    "label": "<p style='font-family: inherit; font-size: 16px;'>Knap</p>",
+    "name": "Knap"
+  },
+  "mailup-bee-newsletter-modules-divider": {
+    "name": "Opdeler"
+  },
+  "mailup-bee-newsletter-modules-empty": {
+    "label": "Intet indhold her. Træk nyt til fra ‘Indholdspanelet’.",
+    "name": "Tom"
+  },
+  "mailup-bee-newsletter-modules-html": {
+    "name": "HTML"
+  },
+  "mailup-bee-newsletter-modules-image": {
+    "browse": "Gennemse",
+    "drop-here": "Upload din fil her",
+    "name": "Billede"
+  },
+  "mailup-bee-newsletter-modules-merge-content": {
+    "name": "Dynamisk indhold"
+  },
+  "mailup-bee-newsletter-modules-social": {
+    "name": "Social"
+  },
+  "mailup-bee-newsletter-modules-text": {
+    "html": "<p style='font-size: 14px;'>Jeg er en ny tekstblok, som er klar til dit indhold.</p>",
+    "name": "Tekst"
+  },
+  "mailup-bee-newsletter-stage": {
+    "cancel": "Annuller",
+    "delete": "Slet",
+    "delete-configrmation-message": "Denne handling kan ikke fortrydes.",
+    "delete-configrmation-title": "Er du sikker på, at du ønsker at slette dette?"
+  },
+  "mailup-common-file-manager": {
+    "action-delete": "Slet",
+    "action-insert": "Indsæt",
+    "action-preview": "Forhåndsvisning",
+    "add-folder": "Tilføj mappe",
+    "add-new-file": "Tilføj ny fil",
+    "cancel": "Annuller",
+    "close": "Luk",
+    "delete": "Slet",
+    "delete-confirm-message": "Denne handling kan ikke fortrydes.",
+    "delete-confirm-title": "Er du sikker på, at du ønsker at slette denne fil?",
+    "delete-folder-button": "Luk",
+    "delete-folder-text": "Før du sletter den, skal du slette eller flytte dens indhold",
+    "delete-folder-title": "Denne mappe er ikke tom",
+    "drag-to-upload": "Træk dine filer hertil",
+    "empty-folder": "Tom Mappe, upload nogle filer her.",
+    "error-generic": "Ups! Noget gik galt.",
+    "error-generic-title": "Fejl",
+    "error-uploading": "Ups! Noget gik galt under upload af billedet.",
+    "error-uploading-title": "Uploadfejl",
+    "grid-view": "Gittervisning",
+    "import-file": "Importer fra",
+    "list-view": "Listevisning",
+    "load-more": "Indlæs flere",
+    "multi-delete-confirm-title": "Er du sikker på, at du ønsker at slette disse {{multiDeleteItems}} filer?",
+    "multiselect-actions": "Handlinger",
+    "multiselect-delete-all": "Slet alle",
+    "multiselect-move-all": "Flyt alle",
+    "new-folder-placeholder": "Mappenavn",
+    "read-only": "læs kun",
+    "root-folder": "Hjem",
+    "search-noresults-text": "Prøv med et andet begreb eller skift mappe",
+    "search-noresults-title": "Ingen resultater fundet for",
+    "search-not-found": "Intet resultat fundet",
+    "search-not-found-message": "Prøv med noget andet.",
+    "search-placeholder": "Søg i mappe",
+    "select-all": "Vælg alle",
+    "select-file": "Vælg din fil",
+    "sort-date": "Dato",
+    "sort-name": "Navn",
+    "sort-size": "Størrelse",
+    "sort-type": "Type",
+    "stats": "Viser {{visibleItems}} emner af {{totalItems}}",
+    "title": "Filadministrator",
+    "type-directory": "Mappe",
+    "type-document": "Dokument",
+    "type-image": "Billede",
+    "upload-completed": "Upload fuldført",
+    "upload-inprogress": "Upload i gang",
+    "upload-wait": "Næsten færdig…",
+    "validation-name-is-required": "er påkrævet",
+    "validation-name-maximum": "maksimum er %{count} tegn",
+    "validation-name-minium": "minimum er %{count} tegn",
+    "validation-name-special-characters": "indeholder ugyldige tegn",
+    "warning-cant-create-folder-body": "Mærkatet {{readOnly}} indikerer, at du ikke kan redigere indholdet i denne mappe. Gå venligst til en anden mappe og prøv igen.",
+    "warning-cant-create-folder-title": "Ups! Du kan ikke lave en ny mappe her.",
+    "warning-cant-upload-body": "Mærkatet {{readOnly}} indikerer, at du ikke kan redigere indholdet i denne mappe. Gå venligst til en anden mappe og prøv igen.",
+    "warning-cant-upload-title": "Ups! Du kan ikke uploade filer til denne mappe.",
+    "warning-delete-files": "Det er ikke muligt at slette dette.",
+    "warning-delete-folder": "Kun tomme mapper kan slettes",
+    "warning-edit": "Dette indhold kan ikke redigeres"
+  },
+  "mailup-common-font-selector": {
+    "page-font": "Standardskrifttype"
+  },
+  "mailup-common-href": {
+    "link-file": "Linkfil",
+    "link-sms": "Tlf.",
+    "link-telephone": "Tlf.",
+    "link-url": "Url",
+    "special-link": "Specielle links"
+  },
+  "mailup-common-icons-organizer": {
+    "add-new-icon": "Tilføj nyt ikon",
+    "alt": "Alternate text",
+    "close": "Luk",
+    "close-panel": "Luk panel",
+    "edit": "Rediger",
+    "follow": "Social følger",
+    "link-placeholder": "Færdiggør eller indsæt url’et",
+    "more-options": "More options",
+    "others": "Andre ikoner",
+    "remove": "remove",
+    "share": "Social deling",
+    "title": "Title",
+    "url": "Url"
+  },
+  "mailup-common-language-selector": {
+    "de-DE": "Tysk",
+    "en-US": "Engelsk",
+    "es-ES": "Spansk",
+    "fr-FR": "Fransk",
+    "it-IT": "Italiensk",
+    "tr-TR": "Tyrkisk",
+    "zh-CN": "Kinesisk"
+  },
+  "mailup-common-link-type-selector": {
+    "body": "Body",
+    "email-address": "Send e-mail",
+    "link-type": "Linktype",
+    "mail-to": "Mail til",
+    "maps": "Vis kort",
+    "subject": "Emne",
+    "telephone": "Foretag opkald",
+    "text": "Send SMS",
+    "web-address": "Åben webside"
+  },
+  "mailup-common-page-preview": {
+    "desktop": "Skrivebord",
+    "disclaimer-description": "Det er en udfordring at vise en e-mail ens på tværs af enheder. Responsive design giver en løsning herpå. Denne besked vil vises korrekt i mange mobile klienter. Skrivebordsversionen vil blive brugt, når responsive design ikke er understøttet.",
+    "disclaimer-title": "Hvordan vil det se ud?",
+    "mobile": "Mobil",
+    "preview-mode": "Forhåndsvisningstilstand"
+  },
+  "mailup-common-special-link-selector": {
+    "back": "Tilbage",
+    "cancel": "Luk",
+    "search-not-found": "Ingen resultater fundet",
+    "search-not-found-message": "Prøv med et andet nøgleord.",
+    "search-placeholder": "Søg efter nøgleord",
+    "title": "Vælg et link"
+  },
+  "mailup-common-text-editor-provider": {
+    "merge-tags-button-text": "Fletningstags",
+    "merge-tags-modal-close-button": "Luk",
+    "merge-tags-modal-title": "Indsæt fletningstags",
+    "special-link-default-text": "Specielle links",
+    "special-link-title": "Specielle links"
+  },
+  "mailup-common-width-style-color-selector": {
+    "styles": {
+      "dashed": "stiplet",
+      "dotted": "prikket",
+      "solid": "solid"
+    }
+  },
+  "one-column-button": {
+    "mailup-bee-newsletter-modules-button": {
+      "label": "<p style='font-family: inherit; font-size: 16px;'>Knap</p>"
+    }
+  },
+  "one-column-text": {
+    "mailup-bee-newsletter-modules-text": {
+      "html": "<p style=\"font-size: 18px;\" data-mce-style=\"font-size: 18px;\">Hvad med mig?</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Jeg er en tekstblok, som er klar til dit indhold.</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Brug værktøjslinjen for at indsætte tekstegenskaberne og indsætte<a href=\"http://www.example.com\" data-mce-href=\"http://www.example.com\">links</a>.</p>"
+    }
+  },
+  "two-columns-image-text": {
+    "mailup-bee-newsletter-modules-text": {
+      "html": "<p style=\"font-size: 18px;\" data-mce-style=\"font-size: 18px;\">Hvad med mig?</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Jeg er en tekstblok, som er klar til dit indhold.</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Brug værktøjslinjen for at ændre tekstegenskaberne og indsætte <a href=\"http://www.example.com\" data-mce-href=\"http://www.example.com\">links</a>.</p>"
+    }
+  },
+  "two-columns-text": {
+    "mailup-bee-newsletter-modules-text": {
+      "html": "<p style=\"font-size: 18px;\" data-mce-style=\"font-size: 18px;\">Hvad med mig?</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Jeg er en tekstblok, som er klar til dit indhold.</p><br /><p style=\"font-size: 14px;\" data-mce-style=\"font-size: 14px;\">Brug værktøjslinjen for at ændre tekstegenskaberne eller indsætte <a href=\"http://www.example.com\" data-mce-href=\"http://www.example.com\">links</a>.</p>"
+    }
+  },
+  "widget-groups": {
+    "action-options": "Handling",
+    "button-options": "Knapmuligheder",
+    "divider-options": "Opdelermuligheder",
+    "icon-options": "Ikonmuligheder",
+    "image-options": "Billedemuligheder",
+    "merge-content-selector": "Vælg indholdet som skal bruges",
+    "module-options": "Modulmuligheder",
+    "page-options": "Generelle muligheder",
+    "spacing-options": "Afstand",
+    "text-options": "Tekstmuligheder"
+  }
+}
